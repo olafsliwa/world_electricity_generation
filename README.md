@@ -12,8 +12,11 @@ The transformed data was then used in analysis using SQL.
 <br/>
 <br/>
 
-Terms of Use: This dataset is licensed under the [Creative Commons BY License - Attribution CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Data has been collected, aggregated, and documented by Hannah Ritchie, Max Roser and Edouard Mathieu. The original version can be found by clicking in one of the links below.
-
-Data source:
-https://www.kaggle.com/pralabhpoudel/world-energy-consumption
+Terms of Use: This dataset is licensed under the [Creative Commons BY License - Attribution CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Data has been collected, aggregated, and documented by Hannah Ritchie, Max Roser and Edouard Mathieu. The original version can be found by clicking in one of the links below. It is attributed to Hannah Ritchie, Max Roser and Edouard Mathieu.
+<br/>
+<br/>
+Original data source:
+<br/>
+<br/>https://www.kaggle.com/pralabhpoudel/world-energy-consumption<br/>
+<br/>
 https://ourworldindata.org/energy 
