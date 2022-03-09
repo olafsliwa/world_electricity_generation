@@ -1,6 +1,6 @@
 # World Energy Consumption - project
 Analysis of the following dataset: 'World Energy Consumption', which presents the characteristics of energy consumption and production by countries.
-<br>
+<br/>
 <br/>
 For further analysis, downloaded csv file was transformed using MS Excel (Power Query). Steps taken:
 - Drop the columns (The remaining ones: iso_code, country, year, population, gdp, electricty_generation, coal_electricity, oil_electricity, gas_electricity, nuclear_electricity, biofuel_electricity, hydro_electricity, solar_electricity, wind_electricity)
@@ -9,7 +9,7 @@ For further analysis, downloaded csv file was transformed using MS Excel (Power 
 - Filtering the columns (only data for the years 2000-2010)
 
 The transformed data was then used in analysis using SQL.
-<br>
+<br/>
 <br/>
 
 Main conclusions:
