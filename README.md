@@ -9,6 +9,8 @@ For further analysis, downloaded csv file was transformed using MS Excel (Power 
 
 The transformed data was then used in analysis using SQL.
 
+<br/>
+
 Main conclusions:
 - Pacific Asia's domination in context of world electricity production (about 38 % of total in 2010)
 - High electricity dependence on renewable sources in such countries as:  Bhutan, Brazil and Albania (in this case, acoording to the given data, 99,97 % of total electricity came from hydropower plants in 2010)
